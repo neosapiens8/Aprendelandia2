@@ -1,0 +1,6 @@
+# comentario: ignorar archivo "ejemplo.html"
+ejemplo.html
+# ignorar la carpeta2
+carpeta2/
+# ignorar solo el archivo page1.html de la carpeta3
+carpeta3/page1.html
